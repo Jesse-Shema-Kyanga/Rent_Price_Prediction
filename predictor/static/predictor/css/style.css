@@ -1,0 +1,26 @@
+.card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: none;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.btn-primary {
+    padding: 10px 30px;
+    font-weight: 500;
+}
+
+.prediction-result {
+    font-size: 24px;
+    font-weight: bold;
+    color: #28a745;
+    text-align: center;
+    margin-top: 20px;
+}
